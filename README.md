@@ -23,7 +23,7 @@ These notebooks were developed and tested using the [Anaconda](https://www.anaco
 	- [1.2.1 Defining Functions](https://nbviewer.jupyter.org/github/hmanikantan/ech60/blob/master/Chapter_01.ipynb#func)
 	- [1.2.2 Single-line lambda function](https://nbviewer.jupyter.org/github/hmanikantan/ech60/blob/master/Chapter_01.ipynb#lambda)
 	
-- [1.3 Logic and Repitition](https://nbviewer.jupyter.org/github/hmanikantan/ech60/blob/master/Chapter_01.ipynb#structure)
+- [1.3 Logic and Repetition](https://nbviewer.jupyter.org/github/hmanikantan/ech60/blob/master/Chapter_01.ipynb#structure)
 	- [1.3.1 The IF condition](https://nbviewer.jupyter.org/github/hmanikantan/ech60/blob/master/Chapter_01.ipynb#if)
 	- [1.3.2 The FOR and WHILE loops](https://nbviewer.jupyter.org/github/hmanikantan/ech60/blob/master/Chapter_01.ipynb#loops)
 	

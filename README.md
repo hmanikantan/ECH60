@@ -10,7 +10,7 @@ These notebooks were developed and tested using the [Anaconda](https://www.anaco
 	- [0.2.1 Installing and Using Python](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_00.ipynb#start)
 	- [0.2.2 Useful Tips](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_00.ipynb#tips)
 
-### [1. Basic Operations and Control](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_01.ipynb?flush=true)
+### [1. Basic Operations and Control](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_01.ipynb?flush_cache=true)
 - [1.1 Data Types and Basic Operations](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_01.ipynb#intro)
 	- [1.1.1 Integers](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_01.ipynb#int)
 	- [1.1.2 Floats](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_01.ipynb#float)
@@ -39,7 +39,56 @@ These notebooks were developed and tested using the [Anaconda](https://www.anaco
 	
 - [Practice Problems](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_01.ipynb#exer)
 
+### [2. Plotting and Visualization](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_02.ipynb?flush_cache=true)
+- [2.1 Plotting 1D Data Sets](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_02.ipynb#plot)
+	- [2.1.1 Basic Plotting: The pyplot Interface](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_02.ipynb#pyplot)
+	- [2.1.2 Multiple graphics: Subplots](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_02.ipynb#subplot)
+	- [2.1.3 Object-oriented plotting](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_02.ipynb#oop)
+	- [2.1.4 Scatter plots](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_02.ipynb#scatter)
+		
+- [2.2 Multi-dimensional Data](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_02.ipynb#multiplot)
+	- [2.2.1 2D data: Pseudocolors and contours](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_02.ipynb#pcolor)
+	- [2.2.2 3D visualization: Surface plotting](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_02.ipynb#surfplot)
+
+- [Practice Problems](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_02.ipynb#exer2)
+
+### [3. Statistics and Data Analysis](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_03.ipynb?flush_cache=true)
+- [3.1 Elementary Statistics](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_03.ipynb#stat)
+	- [3.1.1 Measures of Spread](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_03.ipynb#measures)
+	- [3.1.2 Distributions and histograms](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_03.ipynb#hist)
+- [3.2 Pandas: a powerful data platform](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_03.ipynb#pandas)
+	- [3.2.1 Introduction to data frames](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_03.ipynb#df)
+	- [3.2.2 A real example: the data science of lead in lipsticks](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_03.ipynb#lipstick)
+
+- [Practice Problems](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_03.ipynb#exer)
+
+### [4. Systems of Linear Equations](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_04.ipynb?flush_cache=true)
+- [4.1 Elimination Methods](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_04.ipynb#lineq)
+	- [4.1.1 Linear Systems and Computational Cost](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_04.ipynb#cost1)
+	- [4.1.2 Gauss Elimination](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_04.ipynb#Gauss)
+	- [4.1.3 Pivoting: Choosing the Right Row](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_04.ipynb#GaussPiv)
+	- [4.1.4 Gauss-Jordan: Gauss on steroids!](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_04.ipynb#GaussJ)
+	- [4.1.5 LU Decomposition](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_04.ipynb#LU)
+	- [4.1.6 Computational Cost Revisited](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_04.ipynb#cost)
+
+- [4.2 Inbuilt Python Routines](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_04.ipynb#inbuilt)
+	- [4.2.1 Solving Linear Systems: linalg.solve](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_04.ipynb#solve)
+	- [4.2.2 Fast and Easy Linear Algebran](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_04.ipynb#linalg)
+
 
 **License Requirements.** MIT license
 
 **Acknowledgements.** ...
+
+
+
+
+
+
+
+
+
+
+
+
+

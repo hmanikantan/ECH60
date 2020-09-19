@@ -159,7 +159,7 @@ These notebooks were developed and tested using the [Anaconda](https://www.anaco
 	- [10.1.2 Euler's method: explicit versus implicit](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_10.ipynb#euler)
 	- [10.1.3 Multi-stage solutions: the Runge-Kutta methods](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_10.ipynb#rk)
 
- [10.2 Coupled and Higher-order ODEs](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_10.ipynb#coupled)
+- [10.2 Coupled and Higher-order ODEs](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_10.ipynb#coupled)
 	- [10.2.1 Systems of first-order ODEs: predators and prey](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_10.ipynb#systems)
 	- [10.2.2 Higher-order initial value problems](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_10.ipynb#higher)
 	- [10.2.3 Inbuilt python routines](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_10.ipynb#inbuilt10)

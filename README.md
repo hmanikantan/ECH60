@@ -10,7 +10,7 @@ These notebooks were developed and tested using the [Anaconda](https://www.anaco
 	- [0.2.1 Installing and Using Python](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_00.ipynb#start)
 	- [0.2.2 Useful Tips](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_00.ipynb#tips)
 
-### [1. Basic Operations and Control](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_01.ipynb)
+### [1. Basic Operations and Control](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_01.ipynb?flush=true)
 - [1.1 Data Types and Basic Operations](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_01.ipynb#intro)
 	- [1.1.1 Integers](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_01.ipynb#int)
 	- [1.1.2 Floats](https://nbviewer.jupyter.org/github/hmanikantan/ECH60/blob/master/Chapter_01.ipynb#float)

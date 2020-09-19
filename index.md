@@ -1,7 +1,5 @@
 # Numerical Methods using Python
 
-![](https://raw.githubusercontent.com/hmanikantan/ECH60/master/images/logo.png)
-
 This set of tutorials are written at an introductory level for an engineering or physical sciences major. It is ideal for someone who has completed college level courses in linear algebra, calculus and differential equations. While prior experience with programming is a certain advantage, it is not expected. At UC Davis, this is aimed at sophomore level Chemical and Biochemical Engineers and Materials Scientists: examples and the language used here might reflect this. At the same time, this is not meant to be an exhaustive course in Python or in numerical methods. The focus is on introducing the mathematical techniques and developing an insight for scientific computation, independent of programming language.
 
 These notebooks were developed and tested using the [Anaconda](https://www.anaconda.com/download/) distribution.
